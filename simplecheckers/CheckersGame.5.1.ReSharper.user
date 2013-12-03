@@ -1,0 +1,359 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="void" priority="3" />
+      <Item value="for" priority="3" />
+      <Item value="int" priority="48" />
+      <Item value="i" priority="23" />
+      <Item value="size" priority="3" />
+      <Item value="cmArray" priority="26" />
+      <Item value="tw" priority="2" />
+      <Item value="null" priority="12" />
+      <Item value="else" priority="26" />
+      <Item value="CheckersPiece`0" priority="9" />
+      <Item value="ChangePlayer`0" priority="1" />
+      <Item value="p" priority="26" />
+      <Item value="Black" priority="16" />
+      <Item value="RedCount" priority="0" />
+      <Item value="CheckersElements`0" priority="46" />
+      <Item value="WriteBoardToFile`0" priority="2" />
+      <Item value="CheckersBoard`0" priority="19" />
+      <Item value="TextReader`0" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="ch" priority="1" />
+      <Item value="case" priority="5" />
+      <Item value="CheckersPiece" priority="6" />
+      <Item value="new" priority="29" />
+      <Item value="Point" priority="8" />
+      <Item value="KeyDown" priority="0" />
+      <Item value="break" priority="2" />
+      <Item value="char" priority="0" />
+      <Item value="tr" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="readString" priority="0" />
+      <Item value="public" priority="16" />
+      <Item value="ReadBoardFromFile`0" priority="0" />
+      <Item value="UpdatePieces`0" priority="0" />
+      <Item value="static" priority="9" />
+      <Item value="EntryPointNotFoundException`0" priority="0" />
+      <Item value="Point`0" priority="5" />
+      <Item value="return" priority="29" />
+      <Item value="ArrayList" priority="5" />
+      <Item value="ArrayList`0" priority="4" />
+      <Item value="movesList" priority="5" />
+      <Item value="bool" priority="5" />
+      <Item value="MinMax`0" priority="1" />
+      <Item value="true" priority="3" />
+      <Item value="board" priority="43" />
+      <Item value="whosTurn" priority="33" />
+      <Item value="enum" priority="0" />
+      <Item value="cb" priority="6" />
+      <Item value="private" priority="10" />
+      <Item value="AlgorithmType`0" priority="4" />
+      <Item value="algorithm" priority="3" />
+      <Item value="value" priority="3" />
+      <Item value="myCB" priority="3" />
+      <Item value="isDown" priority="2" />
+      <Item value="false" priority="9" />
+      <Item value="end" priority="6" />
+      <Item value="nullCP" priority="1" />
+      <Item value="ImageList`0" priority="1" />
+      <Item value="type" priority="0" />
+      <Item value="this" priority="3" />
+      <Item value="Image`0" priority="0" />
+      <Item value="imageList1" priority="0" />
+      <Item value="BackgroundImage" priority="0" />
+      <Item value="MainGame" priority="0" />
+      <Item value="starting" priority="1" />
+      <Item value="ending" priority="1" />
+      <Item value="Math`0" priority="3" />
+      <Item value="didWeEat" priority="0" />
+      <Item value="didNotEat" priority="0" />
+      <Item value="redCount" priority="3" />
+      <Item value="blackCount" priority="1" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="OK" priority="2" />
+      <Item value="dr" priority="0" />
+      <Item value="Retry" priority="0" />
+      <Item value="start" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="if" priority="39" />
+      <Item value="score" priority="19" />
+      <Item value="object" priority="2" />
+      <Item value="element" priority="8" />
+      <Item value="foreach" priority="7" />
+      <Item value="piece" priority="5" />
+      <Item value="boardScore" priority="1" />
+      <Item value="Cursors`0" priority="0" />
+      <Item value="const" priority="2" />
+      <Item value="isAlphaBeta" priority="10" />
+      <Item value="SerializableAttribute`0" priority="0" />
+      <Item value="Move`0" priority="33" />
+      <Item value="movesArray" priority="8" />
+      <Item value="in" priority="2" />
+      <Item value="GetValidMoves`0" priority="0" />
+      <Item value="Array`0" priority="1" />
+      <Item value="while" priority="5" />
+      <Item value="boardScores" priority="3" />
+      <Item value="max" priority="1" />
+      <Item value="_AppDomain`0" priority="0" />
+      <Item value="min" priority="1" />
+      <Item value="Depth" priority="0" />
+      <Item value="depth" priority="22" />
+      <Item value="ourElement" priority="0" />
+      <Item value="Red" priority="3" />
+      <Item value="MaxDepth" priority="5" />
+      <Item value="selectedBoardIndex" priority="5" />
+      <Item value="selectedScore" priority="1" />
+      <Item value="temp" priority="1" />
+      <Item value="Minimax" priority="0" />
+      <Item value="Algorithms`0" priority="0" />
+      <Item value="currentCP" priority="0" />
+      <Item value="InitializeElementsArray`0" priority="1" />
+      <Item value="Null" priority="1" />
+      <Item value="nowPlaying" priority="2" />
+      <Item value="ApplyMove`0" priority="1" />
+      <Item value="m" priority="18" />
+      <Item value="DrawPiecesOnBoard`0" priority="1" />
+      <Item value="isReset" priority="0" />
+      <Item value="DialogResult`0" priority="0" />
+      <Item value="DialogResult" priority="0" />
+      <Item value="Clone`0" priority="0" />
+      <Item value="clonedBoard" priority="4" />
+      <Item value="Move" priority="7" />
+      <Item value="bestCandidate" priority="2" />
+      <Item value="move" priority="11" />
+      <Item value="PossibleMoves`0" priority="1" />
+      <Item value="GetBestMove`0" priority="2" />
+      <Item value="computerColor" priority="0" />
+      <Item value="Random`0" priority="6" />
+      <Item value="Random" priority="4" />
+      <Item value="PerformGUIMove`0" priority="0" />
+      <Item value="validMoves" priority="1" />
+      <Item value="Reset`0" priority="0" />
+      <Item value="IsAccessible" priority="0" />
+      <Item value="from" priority="3" />
+      <Item value="to" priority="1" />
+      <Item value="rbHuman" priority="1" />
+      <Item value="lblAlgorithm" priority="0" />
+      <Item value="rbxMinMax" priority="1" />
+      <Item value="lblVS" priority="1" />
+      <Item value="List" priority="11" />
+      <Item value="bestScore" priority="8" />
+      <Item value="bestMoves" priority="13" />
+      <Item value="List&lt;Move&gt;" priority="3" />
+      <Item value="rand" priority="2" />
+      <Item value="minimalMove" priority="1" />
+      <Item value="CheckersElements" priority="1" />
+      <Item value="MaxMove`0" priority="4" />
+      <Item value="currentMove" priority="1" />
+      <Item value="MinMove`0" priority="0" />
+      <Item value="IServiceProvider`0" priority="0" />
+      <Item value="UpdateMovement`0" priority="0" />
+      <Item value="MovePossible`0" priority="0" />
+      <Item value="successors" priority="6" />
+      <Item value="moves" priority="1" />
+      <Item value="nextBoard" priority="2" />
+      <Item value="alpha" priority="4" />
+      <Item value="beta" priority="6" />
+      <Item value="betaMove" priority="2" />
+      <Item value="newBoard" priority="6" />
+      <Item value="maxMove" priority="1" />
+      <Item value="opponent" priority="1" />
+      <Item value="minMove" priority="0" />
+      <Item value="possibleMoves" priority="3" />
+      <Item value="GetBoardCoordinates`0" priority="0" />
+      <Item value="Application`0" priority="1" />
+      <Item value="DummyMiniMax`0" priority="0" />
+      <Item value="rbEasy" priority="0" />
+      <Item value="Algorithm" priority="0" />
+      <Item value="maxDepth" priority="3" />
+      <Item value="lblDifficulty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextWriter">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MainGame.CheckersPiece">
+      <Item value="Type" priority="16" />
+      <Item value="type" priority="1" />
+      <Item value="BackgroundImage" priority="1" />
+      <Item value="AccessibilityObject" priority="0" />
+      <Item value="BoardLocation" priority="5" />
+      <Item value="IsKing" priority="4" />
+      <Item value="CanEat" priority="3" />
+      <Item value="Cursor" priority="0" />
+      <Item value="Visible" priority="1" />
+      <Item value="IsAlive" priority="2" />
+      <Item value="isAlive" priority="0" />
+      <Item value="Location" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MainGame.CheckersElements">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MainGame.CheckersBoard">
+      <Item value="WriteBoardToFile`0" priority="1" />
+      <Item value="Algorithm" priority="0" />
+      <Item value="NowPlaying" priority="0" />
+      <Item value="UpdatePieces`0" priority="0" />
+      <Item value="Reset`0" priority="2" />
+      <Item value="GetEatingMoves`0" priority="1" />
+      <Item value="cmArray" priority="4" />
+      <Item value="MovePossible`0" priority="1" />
+      <Item value="ApplyMove`0" priority="7" />
+      <Item value="GetBoardScore`0" priority="15" />
+      <Item value="PerformGUIMove`0" priority="0" />
+      <Item value="Clone`0" priority="8" />
+      <Item value="GetValidMoves`0" priority="1" />
+      <Item value="PossibleMoves`0" priority="7" />
+      <Item value="SetDepth`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MainGame.CheckersElements">
+      <Item value="Red" priority="6" />
+      <Item value="Black" priority="12" />
+      <Item value="Null" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.TextReader">
+      <Item value="Read`0" priority="0" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MainGame.AlgorithmType">
+      <Item value="Minimax" priority="0" />
+      <Item value="AlphaBeta" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="23" />
+      <Item value="Y" priority="20" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ImageList">
+      <Item value="Images" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="RetryCancel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Count" priority="7" />
+      <Item value="AddRange`0" priority="0" />
+      <Item value="Add`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="IndexOf`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MainGame.Heuristics">
+      <Item value="CalculatePieceScore`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Cursors">
+      <Item value="Default" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MinValue" priority="6" />
+      <Item value="MaxValue" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MainGame.Algorithms">
+      <Item value="MinMax`0" priority="0" />
+      <Item value="AlphaBeta`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower`0" priority="0" />
+      <Item value="ToUpper`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MainGame.Move">
+      <Item value="IsEating" priority="0" />
+      <Item value="Ending" priority="7" />
+      <Item value="Starting" priority="11" />
+      <Item value="Score" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="3" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="1" />
+      <Item value="BringToFront`0" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="10" />
+      <Item value="Add`0" priority="3" />
+      <Item value="Clear`0" priority="2" />
+      <Item value="RemoveAt`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit`0" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:GameController.cs" caret="166" fromTop="7" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Game.Designer.cs" caret="22295" fromTop="0" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Move.cs" caret="1433" fromTop="0" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Program.cs" caret="376" fromTop="16" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="7549" fromTop="15" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="27739" fromTop="14" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Game.cs" caret="2134" fromTop="18" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="9483" fromTop="57" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="6577" fromTop="31" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="7416" fromTop="36" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="5347" fromTop="23" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="23602" fromTop="1" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="27831" fromTop="17" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="22669" fromTop="18" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="23231" fromTop="28" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="22729" fromTop="18" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="23017" fromTop="22" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="23530" fromTop="29" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="12740" fromTop="0" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="28758" fromTop="6" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="1010" fromTop="20" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="2516" fromTop="15" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="10320" fromTop="8" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="10829" fromTop="19" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="27614" fromTop="10" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="27739" fromTop="14" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Game.cs" caret="1854" fromTop="8" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Game.cs" caret="2005" fromTop="13" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Game.cs" caret="2134" fromTop="18" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="244" fromTop="9" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="2946" fromTop="8" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="3536" fromTop="20" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="4998" fromTop="4" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="5588" fromTop="10" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="8197" fromTop="10" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="8363" fromTop="14" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="8852" fromTop="22" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Algorithms.cs" caret="9890" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

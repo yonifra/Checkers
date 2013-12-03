@@ -1,0 +1,63 @@
+\\ilqhfaatc1msclr\users\JohnathanF\My Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\ResolveAssemblyReference.cache
+\\ilqhfaatc1msclr\users\JohnathanF\My Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.Game.resources
+\\ilqhfaatc1msclr\users\JohnathanF\My Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.Properties.Resources.resources
+\\ilqhfaatc1msclr\users\JohnathanF\My Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.StartingForm.resources
+\\ilqhfaatc1msclr\users\JohnathanF\My Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.csproj.GenerateResource.Cache
+\\ilqhfaatc1msclr\users\johnathanf\My Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.CheckersBoard.resources
+\\ilqhfaatc1msclr\users\johnathanf\My Documents\Visual Studio 2008\Projects\testApp\testApp\bin\Debug\CheckersGame.exe
+\\ilqhfaatc1msclr\users\johnathanf\My Documents\Visual Studio 2008\Projects\testApp\testApp\bin\Debug\CheckersGame.pdb
+\\ilqhfaatc1msclr\users\johnathanf\My Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\CheckersGame.exe
+\\ilqhfaatc1msclr\users\johnathanf\My Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\CheckersGame.pdb
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\CheckersGame.exe
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\CheckersGame.pdb
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\bin\Debug\CheckersGame.exe
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\bin\Debug\CheckersGame.pdb
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.CheckersBoard.resources
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.Game.resources
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.Properties.Resources.resources
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.StartingForm.resources
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.csproj.GenerateResource.Cache
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.CheckersPiece.resources
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\CheckersGame.exe
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\CheckersGame.pdb
+D:\MyDocs\AI - Latest\testApp\testApp\bin\Debug\CheckersGame.exe
+D:\MyDocs\AI - Latest\testApp\testApp\bin\Debug\CheckersGame.pdb
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\MainGame.CheckersBoard.resources
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\MainGame.CheckersPiece.resources
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\MainGame.Game.resources
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\MainGame.Properties.Resources.resources
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\MainGame.StartingForm.resources
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\MainGame.csproj.GenerateResource.Cache
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\CheckersGame.exe
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\CheckersGame.pdb
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.CheckersBoard.resources
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.CheckersPiece.resources
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.Game.resources
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.Properties.Resources.resources
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.StartingForm.resources
+C:\Users\Dafi & Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\CheckersGame.exe
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\CheckersGame.pdb
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\bin\Debug\CheckersGame.exe
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\bin\Debug\CheckersGame.pdb
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\MainGame.CheckersBoard.resources
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\MainGame.CheckersPiece.resources
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\MainGame.Game.resources
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\MainGame.Properties.Resources.resources
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\MainGame.StartingForm.resources
+C:\Users\user1\Desktop\Documents\Visual Studio 2008\Projects\testApp2\testApp2\testApp\obj\Debug\MainGame.csproj.GenerateResource.Cache
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\CheckersGame.exe
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\CheckersGame.pdb
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\bin\Debug\CheckersGame.exe
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\bin\Debug\CheckersGame.pdb
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\MainGame.csprojResolveAssemblyReference.cache
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\MainGame.CheckersBoard.resources
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\MainGame.CheckersPiece.resources
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\MainGame.Game.resources
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\MainGame.Properties.Resources.resources
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\MainGame.StartingForm.resources
+C:\Users\jonathanf.AVT_SERVER\Desktop\testApp2\testApp\obj\Debug\MainGame.csproj.GenerateResource.Cache

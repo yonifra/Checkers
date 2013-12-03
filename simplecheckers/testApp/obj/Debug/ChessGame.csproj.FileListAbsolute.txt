@@ -1,0 +1,13 @@
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\bin\Debug\testApp.exe
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\bin\Debug\testApp.pdb
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\testApp.Game.resources
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\testApp.Properties.Resources.resources
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\testApp.StartingForm.resources
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\ChessGame.csproj.GenerateResource.Cache
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\testApp.exe
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\testApp.pdb
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.Game.resources
+C:\Users\Yoni\Documents\Visual Studio 2008\Projects\testApp\testApp\obj\Debug\MainGame.StartingForm.resources
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\testApp.exe
+D:\MyDocs\AI - Latest\testApp\testApp\obj\Debug\testApp.pdb

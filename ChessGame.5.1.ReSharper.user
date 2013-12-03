@@ -1,0 +1,145 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="this" priority="5" />
+      <Item value="cellColor" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="Size" priority="1" />
+      <Item value="CheckersBoard`0" priority="6" />
+      <Item value="new" priority="0" />
+      <Item value="Point" priority="2" />
+      <Item value="Point`0" priority="0" />
+      <Item value="pieceLocation" priority="2" />
+      <Item value="i" priority="0" />
+      <Item value="Color`0" priority="0" />
+      <Item value="BackgroundImage" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="Panel`0" priority="0" />
+      <Item value="callingBoard" priority="2" />
+      <Item value="int" priority="2" />
+      <Item value="ref" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="el" priority="0" />
+      <Item value="Black" priority="0" />
+      <Item value="PieceImage" priority="0" />
+      <Item value="imageList1" priority="3" />
+      <Item value="else" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="cellSize" priority="1" />
+      <Item value="Visible" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Control`0" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="c" priority="0" />
+      <Item value="CheckersPiece`0" priority="0" />
+      <Item value="BackgroundImageLayout" priority="0" />
+      <Item value="Stretch" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MainGame.CheckersPiece">
+      <Item value="BackColor" priority="1" />
+      <Item value="BackgroundImage" priority="1" />
+      <Item value="location" priority="1" />
+      <Item value="Size" priority="0" />
+      <Item value="Location" priority="0" />
+      <Item value="Visible" priority="1" />
+      <Item value="TopLevelControl" priority="0" />
+      <Item value="Type" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Brushes">
+      <Item value="Brown" priority="0" />
+      <Item value="Chocolate" priority="0" />
+      <Item value="SaddleBrown" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MainGame.CheckersBoard">
+      <Item value="size" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Transparent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="Controls" priority="1" />
+      <Item value="Size" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="SetChildIndex`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ImageList">
+      <Item value="Images" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.ImageLayout">
+      <Item value="Center" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Game.Designer.cs" caret="16500" fromTop="5" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.resx" caret="0" fromTop="0" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Game.cs" caret="467" fromTop="9" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="2673" fromTop="13" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="1636" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="1203" fromTop="10" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="1413" fromTop="15" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="1531" fromTop="19" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="2474" fromTop="8" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="380" fromTop="9" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="4308" fromTop="10" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="4417" fromTop="15" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="2738" fromTop="10" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="2738" fromTop="14" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="2738" fromTop="21" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="2758" fromTop="4" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="2752" fromTop="6" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="4123" fromTop="22" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="2621" fromTop="10" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="266" fromTop="4" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="2594" fromTop="20" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="3903" fromTop="20" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:Game.Designer.cs" caret="16500" fromTop="9" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="3784" fromTop="11" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="2260" fromTop="5" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="2743" fromTop="14" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="1677" fromTop="7" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="2172" fromTop="6" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="2727" fromTop="3" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="5205" fromTop="0" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="5006" fromTop="9" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="5989" fromTop="42" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="5577" fromTop="22" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersPiece.cs" caret="2012" fromTop="15" />
+      <File id="6AFC79C2-2792-44B1-B17F-913F7F89ED7B/f:CheckersBoard.cs" caret="1635" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
